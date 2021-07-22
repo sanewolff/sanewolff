@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Machine Learning.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI Projects.
-- 📫 How to reach me ...
+- 📫 Email me at avidubey712@gmail.com
 
 <!---
 sanewolff/sanewolff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
